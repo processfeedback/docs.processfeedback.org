@@ -1,6 +1,7 @@
 # Student Guides
 
-#### 1. [Student's assignment submission guide](https://docs.processfeedback.org/student-submission-guide)
+#### 1. [Assignment submission guide](https://docs.processfeedback.org/student-submission-guide)
+Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
 
 # Teacher Guides
 
