@@ -11,6 +11,17 @@ Explains how to submit an assignment so that a Writing Process Report is accessi
 #### 2. [How to discuss with students](https://docs.processfeedback.org/how-to-discuss-with-students)
 Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
 
-#### 3. [How to start using Process Feedback](https://docs.processfeedback.org/how-to-discuss-with-students)
+## 📚 Integrating Process Feedback in a Course
+
+#### [Option 1: Students use Google Docs]()
+Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+
+#### [Option 2: Students use Process Feedback's editor]()
+Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+
+#### [Option 3: Create a custom editor in Process Feedback]()
+Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+
+#### [Option 4: Create an assignment in Process Feedback]()
 Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
 
