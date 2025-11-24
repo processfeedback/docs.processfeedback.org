@@ -43,3 +43,7 @@
 
 #### 🗂️ [Option 4: Create Assignments in Process Feedback]()
 → Keep everything—writing, reports, and submissions—in one place.
+
+---
+
+No copyrights; [Copyleft](https://processfeedback.org/copyleft/) 2025, Process Feedback, LLC.
