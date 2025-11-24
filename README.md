@@ -1,5 +1,7 @@
 # Guides and Tutorials
 
+---
+
 ## 📚 For Students
 
 #### 📝 [How to submit your work in Google Docs or Canvas](https://docs.processfeedback.org/student-submission-guide)  
