@@ -4,18 +4,18 @@
 
 ## 📚 For Students
 
-#### 📝 [How to submit your work to your teacher](student-submission-guide.md)  
-→ A guide for students to share their writing process with the teacher or peers.
+#### 📝 [How to submit your work to your teacher](./student-submission-guide.md)  
+→ Guide for students to share their writing process with the teacher or peers.
 
-#### 🤖 [How to reflect on your AI use]()  
-→ Reflection activities for students to reflect on a writing process when generative AI is used.
-
+<!-- 
 #### 🔗 [How to share your Writing Process Report with peers or teachers]()  
-→ Steps for generating a shareable link and managing access.
+→ Steps for generating a shareable link and managing access. -->
 
 #### 📤 [How to share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)  
 → Step-by-step guide for studens to obtain and share the "Edit Link to their Google Docs document. 
 
+#### 🤖 [How to reflect on your AI use](./how-to-reflect-on-ai-use.md)  
+→ Reflection activities for students to reflect on a writing process when generative AI is used.
 
 ---
 

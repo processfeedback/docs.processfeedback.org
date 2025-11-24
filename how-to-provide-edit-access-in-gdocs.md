@@ -1,5 +1,9 @@
 # How to obtain and share the "Edit Link" of a Google Docs document
 
+Having **edit access** to a Google Docs document also implies that the person has access to the entire edit history of your document. If your provide edit access to a Google Docs document to your teacher, they will have essentially shared your writing process.
+
+The steps below show you how to obtain the "Edit Link" to your Google Docs document and share with others.
+
 ### Step 1. Open the Google Docs
 
 Open the Google Docs document for which you would like to obtain an edit link.
