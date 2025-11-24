@@ -8,7 +8,7 @@ layout: default
 
 ## 📚 For Students
 
-#### 📝 [How to submit your work to your teacher](./student-submission-guide.md)  
+**[1. How to submit yo.ur work to your teacher](./student-submission-guide.md)**  
 → Guide for students to share their writing process with the teacher or peers.
 
 <!-- 
