@@ -2,20 +2,16 @@
 
 ## 📚 For Students
 
-### 📝 Assignment Submission Guide  
-[How to submit your work in Google Docs or Canvas](https://docs.processfeedback.org/student-submission-guide)  
+### 📝 [How to submit your work in Google Docs or Canvas](https://docs.processfeedback.org/student-submission-guide)  
 → Shows how to submit correctly so your Writing Process Report appears for your teacher.
 
-### 🤖 Reflecting on AI Usage  
-[How to analyze your AI use and complete the reflection task]()  
+### 🤖 [How to analyze your AI use and complete the reflection task]()  
 → Explains how to identify AI-assisted text and write a meaningful reflection.
 
-### 🔗 Sharing Your Writing Process  
-[How to share your Writing Process Report with peers or teachers]()  
+### 🔗 [How to share your Writing Process Report with peers or teachers]()  
 → Steps for generating a shareable link and managing access.
 
-### 📤 Sharing the “Edit Link” to Your Google Doc  
-[How to safely provide edit access]( )  
+### 📤 [How to safely provide edit access]( )  
 → Explains how to share an editable Google Docs link without exposing your entire Drive.
 
 
