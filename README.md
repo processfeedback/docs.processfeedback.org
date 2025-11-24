@@ -1,41 +1,53 @@
 # Guides and Tutorials
+
 ## 📚 For Students
 
-#### [1. Assignment submission guide](https://docs.processfeedback.org/student-submission-guide) 📃   
-→ Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 📝 Assignment Submission Guide  
+[How to submit your work in Google Docs or Canvas](https://docs.processfeedback.org/student-submission-guide)  
+→ Shows how to submit correctly so your Writing Process Report appears for your teacher.
 
-#### [2. How to reflect on AI usage]() 📃  
-→ Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 🤖 Reflecting on AI Usage  
+[How to analyze your AI use and complete the reflection task]()  
+→ Explains how to identify AI-assisted text and write a meaningful reflection.
 
-#### [3. How to share writing process with peers or teachers]() 📃  
-→ Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 🔗 Sharing Your Writing Process  
+[How to share your Writing Process Report with peers or teachers]()  
+→ Steps for generating a shareable link and managing access.
 
-#### [4. How to share "Edit Link" to your Google Docs document]() 📃  
-→ Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 📤 Sharing the “Edit Link” to Your Google Doc  
+[How to safely provide edit access]( )  
+→ Explains how to share an editable Google Docs link without exposing your entire Drive.
 
 
+---
 
-## 📚 For Teachers
+## 🧑‍🏫 For Teachers
 
-#### 1. [How to detect students' AI use](https://docs.processfeedback.org/student-submission-guide) 📃 
-Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 🕵️ Detecting AI Use in Student Writing  
+[How to identify AI-assisted patterns](https://docs.processfeedback.org/student-submission-guide)  
+→ Practical indicators based on timing, revision patterns, and source behavior.
 
-#### 2. [How to discuss with students](https://docs.processfeedback.org/how-to-discuss-with-students) 📃 
-Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 💬 Discussing the Writing Process With Students  
+[How to guide productive conversations](https://docs.processfeedback.org/how-to-discuss-with-students)  
+→ Strategies for reflection-focused dialogue and coaching.
+
+
+---
 
 # Integrating Process Feedback in a Course
 
-The following are some ways to integrate in ...
+### ✍️ Option 1: Students Use Google Docs  
+[Using the Google Docs extension]()  
+→ Smoothest workflow for classes that already use Google Docs.
 
-#### [Option 1: Students use Google Docs]() 📃  
-Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 🧰 Option 2: Students Use Process Feedback’s Editor  
+[Writing directly inside Process Feedback]()  
+→ Useful for coding tasks or when Google tools are restricted.
 
-#### [Option 2: Students use Process Feedback's editor]() 📃  
-Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+### 🧪 Option 3: Build a Custom Editor  
+[Creating your own editor inside Process Feedback]()  
+→ Advanced setup for tailored writing or coding environments.
 
-#### [Option 3: Create a custom editor in Process Feedback]() 📃 
-Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
-
-#### [Option 4: Create an assignment in Process Feedback]() 📃 
-Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
-
+### 🗂️ Option 4: Create Assignments in Process Feedback  
+[Setting up tasks and collecting reports]()  
+→ Keep everything—writing, reports, and submissions—in one place.
