@@ -21,31 +21,26 @@
 
 ## 🧑‍🏫 For Teachers
 
-### 🕵️ Detecting AI Use in Student Writing  
-[How to identify AI-assisted patterns](https://docs.processfeedback.org/student-submission-guide)  
+#### 🕵️ [How to identify AI-assisted patterns](https://docs.processfeedback.org/student-submission-guide)  
 → Practical indicators based on timing, revision patterns, and source behavior.
 
-### 💬 Discussing the Writing Process With Students  
-[How to guide productive conversations](https://docs.processfeedback.org/how-to-discuss-with-students)  
+### 💬 [How to guide productive conversations](https://docs.processfeedback.org/how-to-discuss-with-students)  
 → Strategies for reflection-focused dialogue and coaching.
 
 
 ---
 
-# Integrating Process Feedback in a Course
+# How to Integrate Process Feedback in a Course
 
-### ✍️ Option 1: Students Use Google Docs  
-[Using the Google Docs extension]()  
+#### ✍️ [Option 1: Ask students to type in Google Docs]()  
 → Smoothest workflow for classes that already use Google Docs.
 
-### 🧰 Option 2: Students Use Process Feedback’s Editor  
+#### 🧰 [Option 2: Simply ask students use the Process Feedback Editor]  
 [Writing directly inside Process Feedback]()  
 → Useful for coding tasks or when Google tools are restricted.
 
-### 🧪 Option 3: Build a Custom Editor  
-[Creating your own editor inside Process Feedback]()  
+#### 🧪 [Option 3: Create a custom editor for your class using Process Feedback]()  
 → Advanced setup for tailored writing or coding environments.
 
-### 🗂️ Option 4: Create Assignments in Process Feedback  
-[Setting up tasks and collecting reports]()  
+#### 🗂️ [Option 4: Create Assignments in Process Feedback]()
 → Keep everything—writing, reports, and submissions—in one place.
