@@ -36,7 +36,6 @@
 → Smoothest workflow for classes that already use Google Docs.
 
 #### 🧰 [Option 2: Simply ask students use the Process Feedback Editor]  
-[Writing directly inside Process Feedback]()  
 → Useful for coding tasks or when Google tools are restricted.
 
 #### 🧪 [Option 3: Create a custom editor for your class using Process Feedback]()  
