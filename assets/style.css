@@ -233,6 +233,7 @@ blockquote > p {
 .copy-container {
   position: relative;
 }
+
 .copy-button {
   position: absolute;
   top: 8px;
@@ -244,9 +245,8 @@ blockquote > p {
   border-radius: 6px;
   cursor: pointer;
 }
+
 .copy-button:hover {
   background-color: #eaeef2;
 }
-pre {
-  margin: 0;
-}
+

@@ -1,5 +1,7 @@
 # Prompts for Discussing the Writing Process
 
+---
+
 These activities invite you to explore, discuss, or reflect on your writing process. The prompts are designed to help you identify patterns and gain insights into your writing habits.
 
 > “We do not learn from experience, we learn from reflecting on experience.” ― John Dewey
