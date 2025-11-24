@@ -6,7 +6,7 @@
 
 To share your writing process, you must type in Google Docs as usual. A common mistake is writing in another editor, such as Microsoft Word, and then pasting the text into Google Docs. This will not work because editors like Word do not track the editing process. *You must use Google Docs for the entire writing process.*
 
-Alternately, if you are also welcome to use the Process Feedback's [online editor](https://write.processfeedback.org).
+Alternatively, you are also welcome to use Process Feedback's [online editor](https://write.processfeedback.org).
 
 ### Step 2. Share your document or your Writing Process Report
 
@@ -29,8 +29,6 @@ In some cases you may not need a full interactive report link and a PDF of your 
 #### Option 4: Download and share writing process data ZIP
 
 Regardless of whether you typed in Google Docs or the Process Feedback editor, you can also download a ZIP file of your writing process data and share the ZIP file. This can help bulk analyze multiple writing processes at once.
-
-
 
 
 

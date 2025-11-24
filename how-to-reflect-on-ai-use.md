@@ -21,7 +21,7 @@ List **all** instances where you sought help from generative AI (GAI) tools. For
 * On a scale of 1 to 5, how helpful was this AI usage for creating the final product? Give a rating of five if all of the AI-generated text or idea remains in the final document and one if none remain.
 * On a scale of 1 to 5, how helpful was this AI usage for your overall writing process?
 
-Here is how the table may look like:
+Here is how the table may look:
 
 | # | Date & Time | GAI Tool | Purpose | Process | Helpful for Final Product | Helpful for Process | 
 | -- | -- | -- | -- | -- | -- | -- | 

@@ -2,11 +2,11 @@
 
 ---
 
-One way to share your writing process with others, if you typed in Google Docs, is to obtain and share the Edit Link to your document. Having **edit access** to a Google Docs document also implies that the person has access to the entire edit history of your document. If your provide edit access to a Google Docs document to your teacher, you will have essentially shared your writing process.
+One way to share your writing process with others, if you typed in Google Docs, is to obtain and share the Edit Link to your document. Having **edit access** to a Google Docs document also implies that the person has access to the entire edit history of your document. If you provide edit access to a Google Docs document to your teacher, you will have essentially shared your writing process.
 
-The steps below show you how to obtain the "Edit Link" to your Google Docs document and share with others.
+The steps below show you how to obtain the "Edit Link" to your Google Docs document and share it with others.
 
-### Step 1. Open the Google Docs
+### Step 1. Open the Google Docs document
 
 ---
 
@@ -58,7 +58,7 @@ After selecting the “Anyone with the link” option, you have to further refin
 
 ---
 
-Click on “Copy link ” button to copy the shareable link. Paste this link wherever it is needed.
+Click on the “Copy link” button to copy the shareable link. Paste this link wherever it is needed.
 
 <p align="center">
   <img 
@@ -72,5 +72,4 @@ Click on “Copy link ” button to copy the shareable link. Paste this link whe
 
 ---
 
-While the approach described above is easiest, if you document contains sensitive information, it is better to share the document specifically only with the person who you want to access it. For this, instead of choosing "Anyone with the link" you should choose the email address of the person you want to share the document with.
-
+While the approach described above is easiest, if your document contains sensitive information, it is better to share the document only with the person you want to access it. For this, instead of choosing "Anyone with the link" you should choose the email address of the person you want to share the document with.

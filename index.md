@@ -14,7 +14,7 @@ For teachers, students, writing centers, TAs, etc.
 → Guide for students to share their writing process with the teacher or peers
 
 **[2. How to obtain and share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
-→ Step-by-step guide for studens to obtain and share the "Edit Link to their Google Docs document. 
+→ Step-by-step guide for students to obtain and share the "Edit Link" to their Google Docs document. 
 
 **[3. How to reflect on your AI use](./how-to-reflect-on-ai-use.md)**  
 → Reflection activities for students to reflect on a writing process when generative AI is used.
@@ -34,8 +34,8 @@ For teachers, students, writing centers, TAs, etc.
 
 # How to try or integrate Process Feedback in a Course
 
-**[Option 1: Ask students to type in Google Docs or Process Feedback's online editor](./option-type-in-google-docs.md)**   
-→ When to Use: Easist option to try Process Feedback
+**[Option 1: Ask students to type in Google Docs or Process Feedback's online editor](./option-type-in-google-docs-or-pf.md)**   
+→ When to Use: Easiest option to try Process Feedback
 → Difficulty: Easy  
 → Key Feature: Students don't need to install anything 
 
@@ -47,5 +47,4 @@ For teachers, students, writing centers, TAs, etc.
 **[Option 4: Create Assignments in Process Feedback]()**  
 → When to Use: Compare students' writing processes     
 → Difficulty: Advanced  
-→ Key Feature: All student submission show up in a dashboard
-
+→ Key Feature: All student submissions show up in a dashboard

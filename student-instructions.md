@@ -10,7 +10,7 @@ This assignment must be completed using an online editor that records your typin
 
 **Step 1. Use Google Docs or Process Feedback’s online editor**  
 
-For this assignment, you must use Google Docs as usual or the Process Feedback's [online writing editor](https://write.processfeedback.org). Some of you may want to type in another editor, such as Microsoft Word, and then paste the text into your editor. **This is NOT allowed.** You must use Google Docs or Process Feedback’s writing editor for your entire writing process. If you use Google Docs, you **must be online while you are typing**.
+For this assignment, you must use Google Docs as usual or Process Feedback's [online writing editor](https://write.processfeedback.org). Some of you may want to type in another editor, such as Microsoft Word, and then paste the text into your editor. **This is NOT allowed.** You must use Google Docs or Process Feedback’s writing editor for your entire writing process. If you use Google Docs, you **must be online while you are typing**.
 
 **Step 2. Submit your final work**  
 Submit a PDF or DOC file of your final writing.
@@ -19,4 +19,3 @@ Submit a PDF or DOC file of your final writing.
 Also submit the process report as a PDF. If you use Process Feedback’s online editor, you can download the report from the sidebar on the left.
 
 NOTE: If you use Google Docs, you can install the [Process Feedback extension](https://chromewebstore.google.com/detail/gdoc-process-feedback/chcbikmmlhbbdkfiaaaljabpefdfajnb) to generate a process report for your document. The extension page includes a short tutorial video on installing the extension and downloading the report. Alternatively, you may submit an edit link to your Google Doc with the “Anyone with the edit link can edit” option enabled. For instructions on generating an edit link, refer to [this tutorial](how-to-provide-edit-access-in-gdocs.md).
-
