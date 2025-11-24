@@ -215,3 +215,9 @@ ol {
     padding: 0 0.75rem;
   }
 }
+
+hr {
+  border: 0;
+  border-top: 1px solid #d1d5db; /* dimmer: Tailwind’s gray-300 */
+  margin: 1.5rem 0;
+}
