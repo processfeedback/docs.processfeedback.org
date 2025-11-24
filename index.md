@@ -15,7 +15,7 @@ layout: default
 #### 🔗 [How to share your Writing Process Report with peers or teachers]()  
 → Steps for generating a shareable link and managing access. -->
 
-#### 📤 [How to share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)  
+**[2. How to share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
 → Step-by-step guide for studens to obtain and share the "Edit Link to their Google Docs document. 
 
 #### 🤖 [How to reflect on your AI use](./how-to-reflect-on-ai-use.md)  
