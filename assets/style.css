@@ -1,0 +1,26 @@
+/* Basic reset */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.5;
+}
+
+/* Center content and avoid super-wide text on big screens */
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Make images and tables scale on small screens */
+img,
+table {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Avoid horizontal scrolling for code blocks where possible */
+pre {
+  overflow-x: auto;
+}
+
