@@ -23,6 +23,9 @@ Some assignments in this course may require you to share the process you followe
   border-radius: 6px;
   cursor: pointer;
 }
+.copy-text{
+	padding: 10px 20px;
+}
 .copy-button:hover {
   background-color: #eaeef2;
 }
@@ -32,8 +35,10 @@ pre {
 </style>
 
 <div class="copy-container">
-  <button class="copy-button" onclick="copyToClipboard(this)">Copy</button>
-	Some assignments in this course may require you to share the process you followed to complete the assignment. You may need to use an online editor that tracks your typing, such as the one provided by Process Feedback. You may then be asked to reflect on your writing journey and share your writing process with me. Research shows that reflecting on your writing process can enhance critical thinking and metacognition. Assignments with this requirement will include additional instructions. If you have any concerns or questions, please contact me early so I can accommodate your needs.
+	<button class="copy-button" onclick="copyToClipboard(this)">Copy</button>
+	<div class="copy-text">
+		Some assignments in this course may require you to share the process you followed to complete the assignment. You may need to use an online editor that tracks your typing, such as the one provided by Process Feedback. You may then be asked to reflect on your writing journey and share your writing process with me. Research shows that reflecting on your writing process can enhance critical thinking and metacognition. Assignments with this requirement will include additional instructions. If you have any concerns or questions, please contact me early so I can accommodate your needs.
+	</div>
 </div>
 
 <script>
