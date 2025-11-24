@@ -7,8 +7,8 @@
 #### 📝 [How to submit your work to your teacher](student-submission-guide.md)  
 → A guide for students to share their writing process with the teacher or peers.
 
-#### 🤖 [How to analyze your AI use and complete the reflection task]()  
-→ Explains how to identify AI-assisted text and write a meaningful reflection.
+#### 🤖 [How to reflect on your AI use]()  
+→ Reflection activities for students to reflect on a writing process when generative AI is used.
 
 #### 🔗 [How to share your Writing Process Report with peers or teachers]()  
 → Steps for generating a shareable link and managing access.
