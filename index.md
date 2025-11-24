@@ -26,7 +26,7 @@ For teachers, students, writing centers, TAs, etc.
 **[1. How to identify AI-assisted writing patterns](https://docs.processfeedback.org/student-submission-guide)**    
 → Indicators based on copy-paste events, timing, and revision patterns.
 
-**[2. How to discuss with students about their writing process](https://docs.processfeedback.org/how-to-discuss-with-students)**    
+**[2. How to discuss with students about their writing process](writing-process-reflection-prompts.md)**    
 → Guide for teachers to discuss a Writing Process Report with your students.
 
 
