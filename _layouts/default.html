@@ -2,6 +2,8 @@
 <html>
 <head>
   <head>
+  <script src="https://cdn.tailwindcss.com"></script>
+
   <meta charset="UTF-8" />
   <title>{{ page.title }}</title>
 
@@ -12,10 +14,87 @@
   </head>
 <body>
 
-<header>
-  <!-- your shared header here -->
-  PF
+<header class="sticky top-0 z-40 border-b border-slate-200 bg-gray-50 dark:bg-[#202123] dark:border-zinc-700 dark:text-slate-300">
+  <div class="flex items-center justify-between px-2 py-2 sm:px-4 lg:px-4">
+
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2 cursor-pointer select-none">
+      <img
+        src="/assets/pf_logo_beta.png"
+        alt="Process Feedback"
+        class="block h-8 w-auto dark:hidden transition-transform duration-200 hover:scale-105"
+      />
+      <img
+        src="/assets/pf_logo_beta_dark_mode.png"
+        alt="Process Feedback (Dark Mode)"
+        class="hidden h-8 w-auto dark:block transition-transform duration-200 hover:scale-105"
+      />
+    </a>
+
+    <!-- Desktop nav -->
+    <nav class="hidden md:flex items-center gap-2 lg:gap-3 text-sm">
+      <a
+        href="https://processfeedback.org/about/"
+        class="inline-flex items-center px-3 py-2 rounded-md !no-underline !text-slate-800 dark:!text-slate-200 transition-colors duration-150 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
+      >
+        About this Page
+      </a>
+
+      <a
+        href="https://processfeedback.org/contact-us/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center px-3 py-2 rounded-md !no-underline !text-slate-800 dark:!text-slate-200 transition-colors duration-150 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
+      >
+        Contact us
+      </a>
+    </nav>
+
+    <!-- Mobile toggle -->
+    <button
+      type="button"
+      id="mobile-nav-toggle"
+      class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-slate-700 dark:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+      aria-label="Toggle navigation"
+      aria-expanded="false"
+    >
+      <!-- Hamburger icon -->
+      <svg id="icon-open" class="h-5 w-5" viewBox="0 0 24 24">
+        <path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+
+      <!-- Close icon -->
+      <svg id="icon-close" class="h-5 w-5 hidden" viewBox="0 0 24 24">
+        <path d="M6 6l12 12M6 18L18 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile dropdown -->
+  <nav
+    id="mobile-nav"
+    class="hidden md:hidden border-t border-slate-200 dark:border-zinc-700 bg-gray-50 dark:bg-[#202123]"
+  >
+    <div class="px-4 py-3 space-y-1">
+      <a
+        href="https://processfeedback.org/about/"
+        class="block rounded-md px-3 py-2 text-sm !text-slate-800 dark:!text-slate-200 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
+      >
+        About this Page
+      </a>
+
+      <a
+        href="https://processfeedback.org/contact-us/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="block rounded-md px-3 py-2 text-sm !text-slate-800 dark:!text-slate-200 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
+      >
+        Contact us
+      </a>
+    </div>
+  </nav>
 </header>
+
 
 <main>
   {{ content }}
@@ -25,6 +104,34 @@
   Copyleft
   <!-- your shared footer here -->
 </footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var toggleBtn = document.getElementById("mobile-nav-toggle");
+    var mobileNav = document.getElementById("mobile-nav");
+    var iconOpen = document.getElementById("icon-open");
+    var iconClose = document.getElementById("icon-close");
+
+    if (!toggleBtn || !mobileNav) return;
+
+    toggleBtn.addEventListener("click", function () {
+      var isHidden = mobileNav.classList.contains("hidden");
+
+      if (isHidden) {
+        mobileNav.classList.remove("hidden");
+        iconOpen.classList.add("hidden");
+        iconClose.classList.remove("hidden");
+        toggleBtn.setAttribute("aria-expanded", "true");
+      } else {
+        mobileNav.classList.add("hidden");
+        iconOpen.classList.remove("hidden");
+        iconClose.classList.add("hidden");
+        toggleBtn.setAttribute("aria-expanded", "false");
+      }
+    });
+  });
+</script>
+
 
 </body>
 </html>
