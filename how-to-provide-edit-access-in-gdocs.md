@@ -8,13 +8,9 @@ The steps below show you how to obtain the "Edit Link" to your Google Docs docum
 
 ### Step 1. Open the Google Docs document
 
----
-
 Open the Google Docs document for which you would like to obtain an edit link.
 
 ### Step 2. Click on the "Share" button
-
----
 
 Once your document is open, locate the “Share” button in the top right corner of the screen and click on it. This will open a sharing dialog box where you can specify who you want to share the document with and what level of access they should have.
 
@@ -28,8 +24,6 @@ Once your document is open, locate the “Share” button in the top right corne
 
 ### Step 3. Select "Anyone with the link" 
 
----
-
 In the General access dropdown, change “Restricted” to “Anyone with the link.”
 
 <p align="center">
@@ -42,8 +36,6 @@ In the General access dropdown, change “Restricted” to “Anyone with the li
 
 ### Step 4. Change Viewer to "Editor"  
 
----
-
 After selecting the “Anyone with the link” option, you have to further refine the level of access by changing the viewer permission to editor permission. Locate the dropdown menu next to the link-sharing options. By default, it may be set to “Viewer.” Click on the dropdown menu and select “Editor” to grant editing privileges to anyone with the link.
 
 <p align="center">
@@ -55,8 +47,6 @@ After selecting the “Anyone with the link” option, you have to further refin
 </p>
 
 ### Step 5: Click "Copy Link"
-
----
 
 Click on the “Copy link” button to copy the shareable link. Paste this link wherever it is needed.
 

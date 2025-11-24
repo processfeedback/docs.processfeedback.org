@@ -1,10 +1,10 @@
 # Student Instructions
 
+---
+
 Students must use Google Docs or Process Feedback’s online editor for their writing. If they type in a different application, such as Microsoft Word, they won’t be able to explore their writing process. Add the following instructions to any assignment where a student’s writing process matters.
 
 ### Additional Assignment Requirements
-
----
 
 This assignment must be completed using an online editor that records your typing. Doing so will allow you to analyze your writing process and share the writing process report.
 
