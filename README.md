@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Guides and Tutorials
 
 ---
