@@ -1,15 +1,32 @@
-# Student's Assignment Submission Guide
+# Student Submission Guide
 
-### Step 1. Write in Google Docs
+### Step 1. Write in Google Docs or in Process Feedback Editor
 
-To share your writing process, you must type in Google Docs as usual. A common mistake is writing in another editor, such as Microsoft Word, and then pasting the text into Google Docs. This will not work. *You must use Google Docs for the entire writing process.*
+To share your writing process, you must type in Google Docs as usual. A common mistake is writing in another editor, such as Microsoft Word, and then pasting the text into Google Docs. This will not work because editors like Word do not track the editing process. *You must use Google Docs for the entire writing process.*
 
-### Step 2. Share your document or your process report
+Alternately, if you are also welcome to use the Process Feedback's [online editor](https://write.processfeedback.org).
 
-#### Option 1
-Share the edit link to your Google Docs document. For this, you will need to enable the **“Anyone with the edit link can edit”** option for the document being shared. Step-by-step instructions for generating an edit link are provided in [this tutorial](./how-to-provide-edit-access-in-gdocs.md).
+### Step 2. Share your document or your Writing Process Report
 
-#### Option 2 
-Install the [Process Feedback extension](https://chromewebstore.google.com/detail/gdoc-process-feedback/chcbikmmlhbbdkfiaaaljabpefdfajnb) to generate a process report for your document. The extension page includes a short tutorial video on how to install the extension. Once the report is open, in the sidebar, click “Share this Report” to obtain a link for sharing. Alternately, you can also download a ZIP file of your writing process data and share the ZIP file.
+#### Option 1: Share the Google Docs document itself
+
+If you are using Google Docs, you can just share the edit link to your Google Docs document. For this, you will need to enable the **“Anyone with the edit link can edit”** option for the document being shared. Step-by-step instructions for generating an edit link are provided in [this tutorial](./how-to-provide-edit-access-in-gdocs.md).
+
+#### Option 2: Obtain and share a link to your Writing Process Report 
+
+If you typed in Google Docs, install the [Process Feedback extension](https://chromewebstore.google.com/detail/gdoc-process-feedback/chcbikmmlhbbdkfiaaaljabpefdfajnb) to generate a process report for your document. The extension page includes a short tutorial video on how to install the extension. Once the report is open, in the sidebar, click “Share this Report” to obtain a link for sharing. 
+
+If you typed in Process Feedback's writing editor, you can save the document online and copy the Report Link to share with others.
+
+#### Option 3: Download and share a PDF of your Writing Process Report
+
+In some cases you may not need a full interactive report link and a PDF of your report may work. To obtain a PDF simply click "Download Report PDF" in the sidebar on the left.
+
+#### Option 4: Download and share writing process data ZIP
+
+Regardless of whether you typed in Google Docs or the Process Feedback editor, you can also download a ZIP file of your writing process data and share the ZIP file. This can help bulk analyze multiple writing processes at once.
+
+
+
 
 

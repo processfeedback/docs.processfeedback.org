@@ -5,18 +5,19 @@ layout: default
 
 # Guides and Tutorials
 For teachers, students, writing centers, TAs, etc.
+
 ---
 
-## 📚 For Students
+## 📚 Student Resources
 
-**[1. How to submit your work to your teacher](./student-submission-guide.md)**  
-→ Guide for students to share their writing process with the teacher or peers.
+**[1. Student submission guide](./student-submission-guide.md)**  
+→ Guide for students to share their writing process with the teacher or peers
 
 <!-- 
 #### 🔗 [How to share your Writing Process Report with peers or teachers]()  
 → Steps for generating a shareable link and managing access. -->
 
-**[2. How to share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
+**[2. How to obtain and share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
 → Step-by-step guide for studens to obtain and share the "Edit Link to their Google Docs document. 
 
 **[3. How to reflect on your AI use](./how-to-reflect-on-ai-use.md)**  
@@ -24,7 +25,7 @@ For teachers, students, writing centers, TAs, etc.
 
 ---
 
-## 🧑‍🏫 For Teachers
+## 🧑‍🏫 Teacher Resources
 
 **[1. How to identify AI-assisted patterns](https://docs.processfeedback.org/student-submission-guide)**    
 → Indicators based on copy-paste events, timing, and revision patterns.
