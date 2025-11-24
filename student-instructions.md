@@ -4,6 +4,8 @@ Students must use Google Docs or Process Feedback’s online editor for their wr
 
 ### Additional Assignment Requirements
 
+---
+
 This assignment must be completed using an online editor that records your typing. Doing so will allow you to analyze your writing process and share the writing process report.
 
 **Step 1. Use Google Docs or Process Feedback’s online editor**  

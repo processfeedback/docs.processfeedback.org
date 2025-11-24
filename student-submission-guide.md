@@ -2,11 +2,15 @@
 
 ### Step 1. Write in Google Docs or in Process Feedback Editor
 
+---
+
 To share your writing process, you must type in Google Docs as usual. A common mistake is writing in another editor, such as Microsoft Word, and then pasting the text into Google Docs. This will not work because editors like Word do not track the editing process. *You must use Google Docs for the entire writing process.*
 
 Alternately, if you are also welcome to use the Process Feedback's [online editor](https://write.processfeedback.org).
 
 ### Step 2. Share your document or your Writing Process Report
+
+---
 
 #### Option 1: Share the Google Docs document itself
 
