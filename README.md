@@ -6,6 +6,10 @@
 #### [2. How to reflect on AI usage]() 📃  
 → Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
 
+#### [3. How to share writing process with peers or teachers]() 📃  
+→ Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+
+
 ## 📚 Teacher Guides
 
 #### 1. [How to detect students' AI use](https://docs.processfeedback.org/student-submission-guide) 📃 
