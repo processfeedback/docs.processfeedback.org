@@ -22,10 +22,10 @@
 ## 🧑‍🏫 For Teachers
 
 #### 🕵️ [How to identify AI-assisted patterns](https://docs.processfeedback.org/student-submission-guide)  
-→ Practical indicators based on timing, revision patterns, and source behavior.
+→ Indicators based on copy-paste events, timing, and revision patterns.
 
-### 💬 [How to guide productive conversations](https://docs.processfeedback.org/how-to-discuss-with-students)  
-→ Strategies for reflection-focused dialogue and coaching.
+#### 💬 [How to discuss with students about their writing process](https://docs.processfeedback.org/how-to-discuss-with-students)  
+→ Guide for teachers to discuss a Writing Process Report with your students.
 
 
 ---
@@ -33,16 +33,24 @@
 # How to Integrate Process Feedback in a Course
 
 #### ✍️ [Option 1: Ask students to type in Google Docs]()  
-→ Smoothest workflow for classes that already use Google Docs.
+→ When to Use: If you use Google Classroom or you and your students like Google Docs  
+→ Difficulty: Easy  
+→ Key Feature: Students don't need to install anything 
 
 #### 🧰 [Option 2: Simply ask students use the Process Feedback Editor]  
-→ Useful for coding tasks or when Google tools are restricted.
+→ When to Use: If you are open to trying a new editor  
+→ Difficulty: Easy  
+→ Key Feature: Students don't need to create account
 
 #### 🧪 [Option 3: Create a custom editor for your class using Process Feedback]()  
-→ Advanced setup for tailored writing or coding environments.
+→ When to Use: If you want to follow our recommended approach to using Process Feedback  
+→ Difficulty: Moderate  
+→ Key Feature: Students see the course name in the editor
 
 #### 🗂️ [Option 4: Create Assignments in Process Feedback]()
-→ Keep everything—writing, reports, and submissions—in one place.
+→ When to Use: If you really like Process Feedback and want to compare students' writing processes     
+→ Difficulty: Advanced  
+→ Key Feature: All student submission show up in a dashboard
 
 ---
 ---
