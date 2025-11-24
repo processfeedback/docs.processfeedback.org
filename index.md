@@ -18,7 +18,7 @@ layout: default
 **[2. How to share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
 → Step-by-step guide for studens to obtain and share the "Edit Link to their Google Docs document. 
 
-#### 🤖 [How to reflect on your AI use](./how-to-reflect-on-ai-use.md)  
+**[3. How to reflect on your AI use](./how-to-reflect-on-ai-use.md)**  
 → Reflection activities for students to reflect on a writing process when generative AI is used.
 
 ---
