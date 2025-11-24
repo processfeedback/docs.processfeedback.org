@@ -9,6 +9,10 @@
 #### [3. How to share writing process with peers or teachers]() 📃  
 → Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
 
+#### [4. How to share "Edit Link" to your Google Docs document]() 📃  
+→ Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
+
+
 
 ## 📚 Teacher Guides
 
