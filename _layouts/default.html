@@ -1,174 +1,103 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- NO tailwind here -->
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
 
-    <!-- Tailwind config: disable Preflight -->
-    <script>
-      tailwind.config = {
-        corePlugins: {
-          preflight: false,
-        },
-      };
-    </script>
-    <script src="https://cdn.tailwindcss.com"></script>
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <!-- Logo -->
+      <a href="/" class="logo">
+        <img src="/assets/pf_logo_beta.png" alt="Process Feedback" />
+      </a>
 
-    <!-- Your own styles (optional) -->
-    <link rel="stylesheet" href="/assets/style.css" />
-  </head>
-
-  <body>
-    <header
-      class="sticky top-0 z-40 border-b border-slate-200 bg-gray-50 dark:bg-[#202123] dark:border-zinc-700 dark:text-slate-300"
-    >
-      <div class="flex items-center justify-between px-2 py-2 sm:px-4 lg:px-4">
-        <!-- Logo -->
-        <a href="/" class="flex items-center gap-2 cursor-pointer select-none">
-          <img
-            src="/assets/pf_logo_beta.png"
-            alt="Process Feedback"
-            class="block h-8 w-auto dark:hidden transition-transform duration-200 hover:scale-105"
-          />
-          <img
-            src="/assets/pf_logo_beta_dark_mode.png"
-            alt="Process Feedback (Dark Mode)"
-            class="hidden h-8 w-auto dark:block transition-transform duration-200 hover:scale-105"
-          />
+      <!-- Desktop nav -->
+      <nav class="primary-nav">
+        <a href="https://processfeedback.org/about/" class="nav-link">About this Page</a>
+        <a href="https://processfeedback.org/contact-us/" class="nav-link" target="_blank" rel="noopener noreferrer">
+          Contact us
         </a>
-
-        <!-- Desktop nav -->
-        <nav class="hidden md:flex items-center gap-2 lg:gap-3 text-sm">
-          <a
-            href="https://processfeedback.org/about/"
-            class="inline-flex items-center px-3 py-2 rounded-md !no-underline !text-slate-800 dark:!text-slate-200 transition-colors duration-150 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
-          >
-            About this Page
-          </a>
-
-          <a
-            href="https://processfeedback.org/contact-us/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-flex items-center px-3 py-2 rounded-md !no-underline !text-slate-800 dark:!text-slate-200 transition-colors duration-150 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
-          >
-            Contact us
-          </a>
-        </nav>
-
-        <!-- Mobile toggle -->
-        <button
-          type="button"
-          id="mobile-nav-toggle"
-          class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-slate-700 dark:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          aria-label="Toggle navigation"
-          aria-expanded="false"
-        >
-          <!-- Hamburger icon -->
-          <svg id="icon-open" class="h-5 w-5" viewBox="0 0 24 24">
-            <path
-              d="M4 7h16M4 12h16M4 17h16"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-            />
-          </svg>
-
-          <!-- Close icon -->
-          <svg id="icon-close" class="h-5 w-5 hidden" viewBox="0 0 24 24">
-            <path
-              d="M6 6l12 12M6 18L18 6"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-            />
-          </svg>
-        </button>
-      </div>
-
-      <!-- Mobile dropdown -->
-      <nav
-        id="mobile-nav"
-        class="hidden md:hidden border-t border-slate-200 dark:border-zinc-700 bg-gray-50 dark:bg-[#202123]"
-      >
-        <div class="px-4 py-3 space-y-1">
-          <a
-            href="https://processfeedback.org/about/"
-            class="block rounded-md px-3 py-2 text-sm !text-slate-800 dark:!text-slate-200 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
-          >
-            About this Page
-          </a>
-
-          <a
-            href="https://processfeedback.org/contact-us/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="block rounded-md px-3 py-2 text-sm !text-slate-800 dark:!text-slate-200 hover:bg-blue-600 dark:hover:bg-blue-500 hover:!text-white"
-          >
-            Contact us
-          </a>
-        </div>
       </nav>
-    </header>
 
-    <main>{{ content }}</main>
+      <!-- Mobile toggle -->
+      <button
+        type="button"
+        id="mobile-nav-toggle"
+        class="mobile-toggle"
+        aria-label="Toggle navigation"
+        aria-expanded="false"
+      >
+        <span class="mobile-toggle-bar"></span>
+        <span class="mobile-toggle-bar"></span>
+        <span class="mobile-toggle-bar"></span>
+      </button>
+    </div>
 
-    <footer
-      class="bg-gray-50 dark:bg-[#202123] border-t border-gray-200 dark:border-zinc-700 text-center py-4 dark:text-slate-300 z-40"
-    >
-      <p class="text-word text-sm flex items-center justify-center gap-1">
-        No copyrights;
-        <a
-          href="https://processfeedback.org/copyleft/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="underline hover:text-blue-600 dark:hover:text-blue-400"
-        >
-          Copyleft
-        </a>
-        <svg
-          class="w-4 h-4 inline-block"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <circle cx="12" cy="12" r="9"></circle>
-          <path d="M9.5 8.5a4 4 0 1 1 0 7"></path>
-        </svg>
-        2025, Process Feedback, LLC.
-      </p>
-    </footer>
+    <!-- Mobile dropdown -->
+    <nav id="mobile-nav" class="mobile-nav">
+      <a href="https://processfeedback.org/about/" class="mobile-nav-link">About this Page</a>
+      <a
+        href="https://processfeedback.org/contact-us/"
+        class="mobile-nav-link"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Contact us
+      </a>
+    </nav>
+  </header>
 
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        var toggleBtn = document.getElementById("mobile-nav-toggle");
-        var mobileNav = document.getElementById("mobile-nav");
-        var iconOpen = document.getElementById("icon-open");
-        var iconClose = document.getElementById("icon-close");
+  <!-- MAIN CONTENT -->
+  <main class="site-main">
+    {{ content }}
+  </main>
 
-        if (!toggleBtn || !mobileNav) return;
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <p class="footer-text">
+      No copyrights;
+      <a
+        href="https://processfeedback.org/copyleft/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Copyleft
+      </a>
+      <svg
+        class="copyleft-icon"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <circle cx="12" cy="12" r="9"></circle>
+        <path d="M9.5 8.5a4 4 0 1 1 0 7"></path>
+      </svg>
+      2025, Process Feedback, LLC.
+    </p>
+  </footer>
 
-        toggleBtn.addEventListener("click", function () {
-          var isHidden = mobileNav.classList.contains("hidden");
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      var toggleBtn = document.getElementById("mobile-nav-toggle");
+      var mobileNav = document.getElementById("mobile-nav");
 
-          if (isHidden) {
-            mobileNav.classList.remove("hidden");
-            iconOpen.classList.add("hidden");
-            iconClose.classList.remove("hidden");
-            toggleBtn.setAttribute("aria-expanded", "true");
-          } else {
-            mobileNav.classList.add("hidden");
-            iconOpen.classList.remove("hidden");
-            iconClose.classList.add("hidden");
-            toggleBtn.setAttribute("aria-expanded", "false");
-          }
-        });
+      if (!toggleBtn || !mobileNav) return;
+
+      toggleBtn.addEventListener("click", function () {
+        var isOpen = mobileNav.classList.toggle("open");
+        toggleBtn.setAttribute("aria-expanded", isOpen ? "true" : "false");
       });
-    </script>
-  </body>
+    });
+  </script>
+</body>
 </html>
