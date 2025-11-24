@@ -1,4 +1,5 @@
-## 📚 Student Guides
+# Guides and Tutorials
+## 📚 For Students
 
 #### [1. Assignment submission guide](https://docs.processfeedback.org/student-submission-guide) 📃   
 → Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
@@ -14,7 +15,7 @@
 
 
 
-## 📚 Teacher Guides
+## 📚 For Teachers
 
 #### 1. [How to detect students' AI use](https://docs.processfeedback.org/student-submission-guide) 📃 
 Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
@@ -22,7 +23,7 @@ Explains how to submit an assignment so that a Writing Process Report is accessi
 #### 2. [How to discuss with students](https://docs.processfeedback.org/how-to-discuss-with-students) 📃 
 Explains how to submit an assignment so that a Writing Process Report is accessible to the teacher.
 
-## 📚 Integrating in a Course
+# Integrating Process Feedback in a Course
 
 The following are some ways to integrate in ...
 
