@@ -16,7 +16,7 @@ Guides for students to explore and reflect on their writing process or share the
 **[1. Student submission guide](./student-submission-guide.md)**  
 → How to share your writing process with a teacher or peers
 
-**[2. How to obtain and share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
+**[2. How to share the "edit link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
 → Step-by-step instructions for getting and sharing a Google Docs edit link
 
 **[3. How to reflect on your AI use](./how-to-reflect-on-ai-use.md)**  
