@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Guides and Tutorials
-For teachers, students, writing centers, TAs, etc.
+For teachers, students, writing centers, teaching assistants, etc.
 
 ---
 
@@ -28,19 +28,19 @@ For teachers, students, writing centers, TAs, etc.
 **[2. How to discuss with students about their writing process](writing-process-reflection-prompts.md)**    
 → Guide for teachers to discuss a Writing Process Report with students
 
-## How to try or integrate Process Feedback in a Course
+## How to integrate (or try) Process Feedback in a Course
 
 **[Option 1: Ask students to type in Google Docs or Process Feedback's online editor](./option-type-in-google-docs-or-pf.md)**   
 → When to Use: Easiest option to try Process Feedback  
 → Difficulty: Easy  
 → Key Feature: Students don't need to install anything 
 
-**[Option 3: Create a special editor for your class using Process Feedback]()**    
+**[Option 3: Create a special editor for your class using Process Feedback](./option-create-custom-editor.md)**    
 → When to Use: Our recommended approach to using Process Feedback  
 → Difficulty: Moderate  
 → Key Feature: Students see the course name in the editor
 
-**[Option 4: Create Assignments in Process Feedback]()**  
+**[Option 4: Create Assignments in Process Feedback](./option-create-assignment.md)**  
 → When to Use: Compare students' writing processes     
 → Difficulty: Advanced  
 → Key Feature: All student submissions show up in a dashboard
