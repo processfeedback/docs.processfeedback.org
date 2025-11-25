@@ -11,7 +11,7 @@ Students should be informed in advance that you are interested not only in their
 
 ### Step 2. Require students to use Google Docs or Process Feedback's online editor
 
-Students must use Google Docs or Process Feedback's [online editor](https://write.processfeedback.org) for their writing. If they type in a different application, such as Microsoft Word, they won’t be able to explore their writing process. Such tools do not record full edit history. 
+Students must use Google Docs or Process Feedback's [online editor](https://write.processfeedback.org) for their writing. If they type in a different application, such as Microsoft Word, they won’t be able to explore their writing process because those tools do not record full edit history. 
 
 ### Step 3. Ask students to share their Writing Process Report
 
@@ -29,4 +29,4 @@ In some assignments, students may be allowed to use generative AI for specific p
 
 ---
 
-Note that when students type in Google Docs, they don't have to install the Process Feedback extension. Google Docs automatically records all the edit history. Alternatively, if students want to use the Process Feedback online editor, they do not need to create an account.
+When students type in Google Docs, they don't have to install the Process Feedback extension because Google Docs automatically records the full edit history. If students prefer to use the Process Feedback online editor, they do not need to create an account.

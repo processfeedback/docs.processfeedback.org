@@ -4,20 +4,20 @@ layout: default
 ---
 
 # Guides and Tutorials
-For teachers, students, writing centers, teaching assistants, etc.
+Resources for teachers, students, writing centers, teaching assistants, and more.
 
 ---
 
 ## 📚 Student Resources
 
 **[1. Student submission guide](./student-submission-guide.md)**  
-→ Guide for students to share their writing process with the teacher or peers
+→ How to share your writing process with a teacher or peers
 
 **[2. How to obtain and share the "Edit Link" of a Google Docs document](./how-to-provide-edit-access-in-gdocs.md)**  
-→ Step-by-step guide for students to obtain and share the "Edit Link" to their Google Docs document
+→ Step-by-step instructions for getting and sharing a Google Docs edit link
 
 **[3. How to reflect on your AI use](./how-to-reflect-on-ai-use.md)**  
-→ Reflection activities for students to reflect on a writing process when generative AI is used
+→ Reflection activities for assignments that involved generative AI
 
 
 ## 🧑‍🏫 Teacher Resources
@@ -31,12 +31,12 @@ For teachers, students, writing centers, teaching assistants, etc.
 ## How to integrate (or try) Process Feedback in a Course
 
 **[Option 1: Ask students to type in Google Docs or Process Feedback's online editor](./option-type-in-google-docs-or-pf.md)**   
-→ When to Use: Easiest option to try Process Feedback  
+→ When to Use: Easiest option to pilot Process Feedback  
 → Difficulty: Easy  
 → Key Feature: Students don't need to install anything 
 
 **[Option 3: Create a special editor for your class using Process Feedback](./option-create-custom-editor.md)**    
-→ When to Use: Our recommended approach to using Process Feedback  
+→ When to Use: Recommended approach for most courses  
 → Difficulty: Moderate  
 → Key Feature: Students see the course name in the editor
 

@@ -2,7 +2,7 @@
 
 ---
 
-Students must use Google Docs or Process Feedback’s online editor for their writing. If they type in a different application, such as Microsoft Word, they won’t be able to explore their writing process. Add the following instructions to any assignment where a student’s writing process matters.
+Students must use Google Docs or Process Feedback’s online editor for their writing. If they type in a different application, such as Microsoft Word, they won’t be able to explore their writing process. Add the instructions below to any assignment where a student’s writing process matters.
 
 ### Additional Assignment Requirements
 
@@ -10,10 +10,10 @@ This assignment must be completed using an online editor that records your typin
 
 **Step 1. Use Google Docs or Process Feedback’s online editor**  
 
-For this assignment, you must use Google Docs as usual or Process Feedback's [online writing editor](https://write.processfeedback.org). Some of you may want to type in another editor, such as Microsoft Word, and then paste the text into your editor. **This is NOT allowed.** You must use Google Docs or Process Feedback’s writing editor for your entire writing process. If you use Google Docs, you **must be online while you are typing**.
+For this assignment, use Google Docs as usual or Process Feedback's [online writing editor](https://write.processfeedback.org). Typing in another editor (such as Microsoft Word) and pasting the text later is **not allowed**. Use Google Docs or Process Feedback’s editor for your entire writing process. If you use Google Docs, you **must be online while you are typing**.
 
 **Step 2. Submit your final work**  
-Submit a PDF or DOC file of your final writing.
+Submit a PDF or DOC file of your final writing. 
 
 **Step 3. Submit your writing process report**   
 Also submit the process report as a PDF. If you use Process Feedback’s online editor, you can download the report from the sidebar on the left.
