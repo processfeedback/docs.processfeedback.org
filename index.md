@@ -55,12 +55,12 @@ Here are the choices for a teacher to integrate (or try) Process Feedback in a c
 → Difficulty: Advanced  
 → Key Feature: All student submissions show up in a dashboard
 
-**[Option 4: Extension for Canvas]()** (coming soon..)  
+**[Option 4: Browser Extension for Canvas]()** (coming soon..)  
 → When to Use: Works with Canvas assignments and discussion boards         
 → Difficulty: Moderate  
 → Key Feature: Students can stay in Canvas; No data is collected   
 
 ## 🏛️ Option for Institutional Integration
 
-**[LMS integration for Canvas]()** (coming soon..)  
+**[LMS Integration for Canvas]()** (coming soon..)  
 

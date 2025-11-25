@@ -35,7 +35,8 @@ After completing their writing assignments, students should be prompted to refle
 
 In some assignments, students may be allowed to use generative AI for specific phases of their writing process. Reflecting on the use of AI may require a different set of prompts. [Here are some prompts](how-to-reflect-on-ai-use.md) for reflecting on the use of generative AI in the writing process.
 
-# Sample editor created for "ENG 101"
+# Curious how a custom editor looks like?
 
-Curious how a custom editor looks like? [Here](https://app.processfeedback.org/writing/?th=940000&cid=ENG%20101&cn=Introduction%20to%20Creative%20Writing) is a custom editor created for the course ENG 101. Notice how the sidebar on the left  displays the course name.
+---
 
+[Here](https://app.processfeedback.org/writing/?th=940000&cid=ENG%20101&cn=Introduction%20to%20Creative%20Writing) is a custom editor created for the course ENG 101. Notice how the sidebar on the left displays the course name.
