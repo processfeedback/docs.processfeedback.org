@@ -17,8 +17,7 @@ Once your document is open, click the “Share” button in the top right corner
 <p align="center">
   <img 
     src="./images/gdocs-share-button.webp"
-    width="500" 
-    style="border: 1px solid #ccc; border-radius: 8px;" 
+    style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ccc; border-radius: 15px; display: block; margin: 0 auto;" 
   />
 </p>
 
@@ -29,8 +28,7 @@ In the General access dropdown, change “Restricted” to “Anyone with the li
 <p align="center">
   <img 
     src="./images/gdocs-any-with-link.webp" 
-    width="500" 
-    style="border: 1px solid #ccc; border-radius: 8px;" 
+    style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ccc; border-radius: 15px; display: block; margin: 0 auto;" 
   />
 </p>
 
@@ -41,8 +39,7 @@ After selecting “Anyone with the link,” change the permission level from “
 <p align="center">
   <img 
     src="./images/gdocs-change-viewer-to-editor.webp" 
-    width="500" 
-    style="border: 1px solid #ccc; border-radius: 8px;" 
+    style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ccc; border-radius: 15px; display: block; margin: 0 auto;" 
   />
 </p>
 
@@ -53,8 +50,7 @@ Click “Copy link” to copy the shareable link, then paste it wherever it is n
 <p align="center">
   <img 
     src="./images/gdocs-click-copy-link.webp" 
-    width="500" 
-    style="border: 1px solid #ccc; border-radius: 8px;" 
+    style="width: 100%; max-width: 500px; height: auto; border: 1px solid #ccc; border-radius: 15px; display: block; margin: 0 auto;" 
   />
 </p>
 
