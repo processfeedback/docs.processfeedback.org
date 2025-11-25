@@ -22,7 +22,7 @@ Resources for teachers, students, writing centers, teaching assistants, and more
 
 ## 🧑‍🏫 Teacher Resources
 
-**[1. How to identify AI-assisted writing patterns](https://docs.processfeedback.org/student-submission-guide)**    
+**[1. How to identify AI-assisted writing patterns]()**    
 → Indicators based on copy-paste events, timing, and revision patterns
 
 **[2. How to discuss with students about their writing process](writing-process-reflection-prompts.md)**    

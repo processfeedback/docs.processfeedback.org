@@ -1,4 +1,4 @@
-# Prompts for Discussing the Writing Process
+# How to Discuss with Students About Their Writing Process
 
 ---
 
