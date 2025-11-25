@@ -24,8 +24,7 @@ If you typed in Process Feedback's writing editor, you can save the document onl
 
 In some cases you may not need a full interactive report link, and a PDF of your report may be enough. To obtain a PDF, click "Download Report PDF" in the sidebar on the left.
 
-#### Option 4: Download and share writing process data ZIP
+#### Option 4: Download and share a writing-process data ZIP
 
-Regardless of whether you typed in Google Docs or the Process Feedback editor, you can download a ZIP file of your writing process data and share the ZIP file. This can help bulk-analyze multiple writing processes at once.
-
+Regardless of whether you typed in Google Docs or the Process Feedback editor, you can download a ZIP file of your writing-process data and share the ZIP file. This can help bulk-analyze multiple writing processes at once.
 
