@@ -11,8 +11,6 @@ Resources for teachers, students, writing centers, teaching assistants, and more
 ## 📚 Student Resources
 Guides for students to explore and reflect on their writing process or share their Writing Process Report:
 
----
-
 #### 1. Student submission guide [Read ↗](./student-submission-guide.md)   
 → How to share your writing process with a teacher or peers
 
@@ -22,11 +20,11 @@ Guides for students to explore and reflect on their writing process or share the
 #### 3. How to reflect on your AI use [Read ↗](./how-to-reflect-on-ai-use.md)  
 → Reflection activities for assignments that involved generative AI
 
+---
 
 ## 🧑‍🏫 Teacher Resources
 Guides for teachers to understand their students' work or to work with their students:
 
----
 
 **[1. Identify AI-assisted writing patterns](./identify-ai-usage.md)**    
 → Indicators based on copy-paste events, timing, and revision patterns
@@ -34,11 +32,11 @@ Guides for teachers to understand their students' work or to work with their stu
 **[2. Prompts for discussing the writing process](writing-process-reflection-prompts.md)**    
 → Guide for teachers to discuss a Writing Process Report with students
 
+---
 
 ## 🏛️ Options for Course Integration 
 Here are the choices for a teacher to integrate (or try) Process Feedback in a course:
 
----
 
 **[Option 1: Students use Google Docs or Process Feedback's editor](./option-type-in-google-docs-or-pf.md)**   
 → When to Use: Easiest option to pilot Process Feedback  
