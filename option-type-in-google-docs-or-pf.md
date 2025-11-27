@@ -13,9 +13,9 @@ Students should be informed in advance that you are interested not only in their
 
 Students must use Google Docs or Process Feedback's [online editor](https://write.processfeedback.org) for their writing. If they type in a different application, such as Microsoft Word, they won’t be able to explore their writing process because those tools do not record full edit history. 
 
-### Step 3. Ask students to share their Writing Process Report
+### Step 3. Ask students to share their writing process report
 
-Provide step-by-step instructions to students for them to share their Writing Process Report. Here is an [example](./student-instructions.md).
+Provide step-by-step instructions to students for them to share their writing process report. Here is an [example](./student-instructions.md).
 
 ### Step 4. As a separate assignment, ask students to reflect on their writing process
 

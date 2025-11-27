@@ -21,9 +21,9 @@ First create a custom editor [here](https://app.processfeedback.org/createeditor
 
 When you create a custom editor, you will see instructions that you can share with your students.
 
-### Step 3. Ask students to share their Writing Process Report
+### Step 3. Ask students to share their writing process report
 
-Provide step-by-step instructions to students for them to share their Writing Process Report. Here is an [example](./student-instructions.md).
+Provide step-by-step instructions to students for them to share their writing process report. Here is an [example](./student-instructions.md).
 
 ### Step 4. As a separate assignment, ask students to reflect on their writing process
 

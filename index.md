@@ -31,7 +31,7 @@ Guides for teachers to explore and discuss their students' working processes
 Indicators based on copy-paste events, timing, and revision patterns
 
 ### 2. Prompts for discussing the writing process [Read ↗](writing-process-reflection-prompts.md)    
-Guide for teachers to discuss a Writing Process Report with students
+Guide for teachers to discuss a writing process report with students
 
 ---
 
