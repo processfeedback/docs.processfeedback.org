@@ -38,6 +38,7 @@ h1 {
   font-size: 2rem;
   font-weight: 700;
   margin: 1.5rem 0 1rem;
+  color: blue;
 }
 
 h2 {
@@ -223,7 +224,6 @@ blockquote {
   border-left: 4px solid #d1d5db; /* soft gray border */
   background: #f9fafb; /* subtle background */
   color: #374151;       /* readable text */
-  font-style: italic;
 }
 
 blockquote > p {

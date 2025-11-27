@@ -1,5 +1,5 @@
 # Prompts for Discussing the Writing Process
-Whether you are a teacher working with a student or a student reflecting on your own, the prompts below invite you to explore or discuss a writing process. They are designed to help you identify patterns in the writing process.
+Whether you are a teacher working with a student or a student reflecting on your own, the prompts below invite you to explore or discuss a writing process. They are designed to help you identify patterns in a writing process report.
 
 > “We do not learn from experience, we learn from reflecting on experience.” ― John Dewey
 
