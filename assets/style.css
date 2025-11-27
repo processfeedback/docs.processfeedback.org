@@ -37,20 +37,20 @@ body {
 h1 {
   font-size: 2rem;
   font-weight: 700;
-  margin: 1.5rem 0 1rem;
+  margin: 1.5rem 0 0.5rem;
   color: blue;
 }
 
 h2 {
   font-size: 1.5rem;
   font-weight: 600;
-  margin: 1.25rem 0 0.75rem;
+  margin: 1.5rem 0 0.75rem;
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 600;
-  margin: 1rem 0 0.5rem;
+  margin: 1.25rem 0 0.5rem;
 }
 
 p {
@@ -250,3 +250,9 @@ blockquote > p {
   background-color: #eaeef2;
 }
 
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #e5e7eb; /* soft gray */
+  margin: 1rem 0 1rem;
+}
