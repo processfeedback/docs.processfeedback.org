@@ -6,6 +6,20 @@ html, body {
   margin: 0;
 }
 
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* logo + subtitle left-aligned */
+  text-decoration: none;
+}
+
+.logo-subtitle {
+  font-size: 0.75rem;      /* small */
+  color: #6b7280;          /* soft gray (Tailwind gray-500) */
+  margin-top: 0.25rem;     /* small space under logo */
+  letter-spacing: 0.3px;
+}
+
 /* Body becomes a vertical flex container */
 body {
   display: flex;
