@@ -271,3 +271,9 @@ hr {
   background-color: #e5e7eb; /* soft gray */
   margin: 1rem 0 1rem;
 }
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
