@@ -6,19 +6,7 @@ html, body {
   margin: 0;
 }
 
-.logo {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start; /* logo + subtitle left-aligned */
-  text-decoration: none;
-}
 
-.logo-subtitle {
-  font-size: 0.75rem;      /* small */
-  color: #6b7280;          /* soft gray (Tailwind gray-500) */
-  margin-top: 0.25rem;     /* small space under logo */
-  letter-spacing: 0.3px;
-}
 
 /* Body becomes a vertical flex container */
 body {
@@ -47,6 +35,24 @@ body {
   padding: 0 1rem;
 }
 
+.logo {
+  display: block;        /* make the logo link a block, not inline */
+  text-decoration: none;
+}
+
+.logo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;  /* keep subtitle under image */
+}
+
+.logo-subtitle {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin-top: 0.25rem;
+  letter-spacing: 0.3px;
+}
+
 /* Restore sensible heading styles */
 h1 {
   font-size: 2rem;
@@ -65,6 +71,12 @@ h3 {
   font-size: 1.5rem;
   font-weight: 600;
   margin: 1.25rem 0 0.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1rem 0 0.25rem;
 }
 
 p {
