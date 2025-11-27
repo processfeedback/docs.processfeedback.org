@@ -30,28 +30,32 @@ Guides for teachers to explore and discuss their students' working processes
 ### 1. Identify AI-assisted writing patterns [Read ↗](./identify-ai-usage.md)    
 Indicators based on copy-paste events, timing, and revision patterns
 
-## 2. Prompts for discussing the writing process [Read ↗](writing-process-reflection-prompts.md)    
+### 2. Prompts for discussing the writing process [Read ↗](writing-process-reflection-prompts.md)    
 Guide for teachers to discuss a Writing Process Report with students
 
 ---
 
 ## 🏛️ Options for Course Integration 
-Here are the choices for a teacher to integrate (or try) Process Feedback in a course:
+Here are the choices for a teacher to integrate (or try) Process Feedback in a course
 
 
 ### Option 1: Students use Google Docs or Process Feedback's editor [Read ↗](./option-type-in-google-docs-or-pf.md)    
+
 * Easiest option to pilot Process Feedback  
 * Students don't need to install anything 
 
 ### Option 2: Create a special editor for your class [Read ↗](./option-create-custom-editor.md)  
+
 * Recommended approach for most courses  
 * Students see the course name in the editor
 
 ### Option 3: Create assignments in Process Feedback [Read ↗](./option-create-assignment.md) 
+
 * Allows comparing students' writing processes       
 * All student submissions appear up in a dashboard
 
 ### Option 4: Browser Extension for Canvas 
+
 Coming soon..
 <!-- → When to Use: Works with Canvas assignments and discussion boards         
 → Difficulty: Moderate  
