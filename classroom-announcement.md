@@ -6,7 +6,7 @@ Let students know early that you care about their process, not just the final pr
 
 Here is an example you can adapt:
 
-## Understanding your writing process
+### Understanding your writing process
 
 <style>
 .copy-container {
@@ -14,7 +14,7 @@ Here is an example you can adapt:
   background-color: #ecededff;
   border-color: #e1e3e4ff;
   border-radius: 4px;
-  padding: 4px 4px;
+  padding: 8px 8px 8px 8px;
 }
 </style>
 

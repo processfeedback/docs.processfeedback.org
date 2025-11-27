@@ -61,10 +61,10 @@ Coming soon..
 → Difficulty: Moderate  
 → Key Feature: Students can stay in Canvas; No data is collected    -->
 
-
+<!-- 
 ## 🏛️ Options for Institutional Integration
 Here are the choices for instutitions to integrate Process Feedback 
 
 ### LMS Integration for Canvas
 Coming soon..
-
+ -->
