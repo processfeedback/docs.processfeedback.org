@@ -15,9 +15,10 @@ html, body {
 
 .logo-subtitle {
   font-size: 0.75rem;      /* small */
-  color: #6b7280;          /* soft gray (Tailwind gray-500) */
-  margin-top: 0.25rem;     /* small space under logo */
+  color: #545962;          /* soft gray (Tailwind gray-500) */
+  margin-top: 0.15rem;     /* small space under logo */
   letter-spacing: 0.3px;
+  margin-left: 4px;         /* align with logo image */
 }
 
 /* Body becomes a vertical flex container */
