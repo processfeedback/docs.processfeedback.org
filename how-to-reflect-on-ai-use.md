@@ -51,14 +51,4 @@ Submit a single document containing the questions above followed by your respons
 
 ---
 
-<div style="max-width: 500px; margin: 0 auto;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe 
-      src="https://www.youtube.com/watch?v=52poAJjjLU4" 
-      title="Video tutorial: How to reflect on your generative AI use"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-      frameborder="0" 
-      allowfullscreen>
-    </iframe>
-  </div>
-</div>
+[This video tutorial](https://www.youtube.com/watch?v=52poAJjjLU4) explains how to reflect on the use of generative AI in your writing process.
