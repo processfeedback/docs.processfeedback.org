@@ -1,7 +1,8 @@
 /* Basic page styling */
 
 /* Allow footer to stay at the bottom */
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
 }
@@ -9,16 +10,21 @@ html, body {
 .logo {
   display: flex;
   flex-direction: column;
-  align-items: flex-start; /* logo + subtitle left-aligned */
+  align-items: flex-start;
+  /* logo + subtitle left-aligned */
   text-decoration: none;
 }
 
 .logo-subtitle {
-  font-size: 0.75rem;      /* small */
-  color: #545962;          /* soft gray (Tailwind gray-500) */
-  margin-top: 0.15rem;     /* small space under logo */
+  font-size: 0.75rem;
+  /* small */
+  color: #545962;
+  /* soft gray (Tailwind gray-500) */
+  margin-top: 0.15rem;
+  /* small space under logo */
   letter-spacing: 0.3px;
-  margin-left: 4px;         /* align with logo image */
+  margin-left: 4px;
+  /* align with logo image */
 }
 
 /* Body becomes a vertical flex container */
@@ -53,19 +59,20 @@ h1 {
   font-size: 2rem;
   font-weight: 700;
   margin: 1.5rem 0 0.5rem;
-  color: blue;
+  color: darkblue;
 }
 
 h2 {
   font-size: 1.5rem;
   font-weight: 600;
   margin: 1.25rem 0 0.5rem;
+  color: blue;
 }
 
 h3 {
   font-size: 1.1rem;
   font-weight: 600;
-  margin: 1rem 0 0.1rem;
+  margin: 1rem 0 0rem;
 }
 
 p {
@@ -121,9 +128,12 @@ ol {
   font-size: 0.95rem;
   text-decoration: none;
   color: #111827;
-  padding: 0;              /* remove button padding */
-  border: none;            /* remove border */
-  background: none;        /* remove background */
+  padding: 0;
+  /* remove button padding */
+  border: none;
+  /* remove border */
+  background: none;
+  /* remove background */
   transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
@@ -236,13 +246,17 @@ ol {
 blockquote {
   margin: 1rem 0;
   padding: 0.75rem 1rem;
-  border-left: 4px solid #d1d5db; /* soft gray border */
-  background: #f9fafb; /* subtle background */
-  color: #374151;       /* readable text */
+  border-left: 4px solid #d1d5db;
+  /* soft gray border */
+  background: #f9fafb;
+  /* subtle background */
+  color: #374151;
+  /* readable text */
 }
 
-blockquote > p {
-  margin: 0; /* remove extra spacing inside */
+blockquote>p {
+  margin: 0;
+  /* remove extra spacing inside */
 }
 
 .copy-container {
@@ -268,7 +282,8 @@ blockquote > p {
 hr {
   border: 0;
   height: 1px;
-  background-color: #e5e7eb; /* soft gray */
+  background-color: #e5e7eb;
+  /* soft gray */
   margin: 1rem 0 1rem;
 }
 
@@ -276,4 +291,3 @@ a {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-
