@@ -8,14 +8,14 @@ Resources for teachers, students, writing centers, teaching assistants, and more
 
 ---
 
-## 📚 Student Resources
+## Student Resources
 Guides for students to explore and reflect on their writing process or share their writing process report
 
 
 ### 1. Student submission guide [Read ↗](./student-submission-guide.md)   
 Sharing writing process report with a teacher or peers
 
-### 2. How to share the "edit link" of a Google Docs document [Read ↗](./how-to-provide-edit-access-in-gdocs.md)  
+### 2. How to share the edit link of a Google Docs document [Read ↗](./how-to-provide-edit-access-in-gdocs.md)  
 Instructions for obtaining and sharing edit link to a Google Docs document
 
 ### 3. How to reflect on your AI use [Read ↗](./how-to-reflect-on-ai-use.md)  
@@ -23,7 +23,7 @@ Reflection activities for assignments that involved generative AI
 
 ---
 
-## 🧑‍🏫 Teacher Resources
+## Teacher Resources
 Guides for teachers to explore and discuss their students' working processes 
 
 
@@ -35,7 +35,7 @@ Guide for teachers to discuss a writing process report with students
 
 ---
 
-## 🏛️ Options for Course Integration 
+## Options for Course Integration 
 Here are the choices for a teacher to integrate (or try) Process Feedback in a course
 
 
@@ -62,7 +62,7 @@ Coming soon..
 → Key Feature: Students can stay in Canvas; No data is collected    -->
 
 <!-- 
-## 🏛️ Options for Institutional Integration
+## Options for Institutional Integration
 Here are the choices for instutitions to integrate Process Feedback 
 
 ### LMS Integration for Canvas

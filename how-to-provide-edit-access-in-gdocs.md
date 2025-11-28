@@ -1,4 +1,4 @@
-# How to share the "Edit Link" of a Google Docs document
+# How to share the edit link of a Google Docs document
 
 ---
 
