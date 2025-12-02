@@ -71,8 +71,8 @@ Here are some common patterns:
 **a) A smooth diagonal line formed by many small dark bars**  
 A smooth diagonal line from the top right corner to the bottom left corner formed by many small dark bars indicates continuous typing from start to finish. It can look like a projectile or a waterfall from left to right. This could indicate focused free writing or retyping another source.
 
-**b) A very tall bar or several tall bars**  
-Shows large amounts of text added instantly.
+**b) One or more tall dark bars**  
+Show large amounts of text added around that time.
 
 **c) Short bars stacked in a single vertical line** 
 Suggests many small changes made in different places at the same moment. This could happen from accepting spelling/grammar suggestions.
