@@ -97,7 +97,7 @@ This often appears as:
 * Very few deletions
 * Consistent, uninterrupted typing rhythm
 
-This pattern does not guarantee misconduct, but it is uncommon for original writing.
+This pattern does not guarantee misconduct, but it may be uncommon for original writing.
 
 ### 2. Voice typing 
 
