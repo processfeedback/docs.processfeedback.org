@@ -77,7 +77,7 @@ Shows large amounts of text added instantly.
 **c) Short bars stacked in a single vertical line** 
 Suggests many small changes made in different places at the same moment. This could happen from accepting spelling/grammar suggestions.
 
-**d) Sudden drops in bar height** 
+**d) Sudden drops in bar height**   
 Indicate text deletions.
 
 **e) Bars scattered across the chart**  
