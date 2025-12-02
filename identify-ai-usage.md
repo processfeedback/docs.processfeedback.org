@@ -2,7 +2,7 @@
 
 *A practical guide for teachers reviewing a student’s writing process report*  
 
-This guide highlights common patterns that may help you understand how a student completed a writing task and whether parts of the work may have involved AI assistance. These indicators should be used as conversation starters, not conclusions.
+This guide lists common patterns that may help you understand how a student completed a writing task and whether parts of the work may have involved AI assistance. These indicators should be used as conversation starters, not conclusions.
 
 
 ---
