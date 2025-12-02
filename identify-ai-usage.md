@@ -26,7 +26,7 @@ Students sometimes paste AI-generated text into their document. The <a href="htt
 
 What to look for:
 * Sort by the Characters column to bring the largest pastes to the top
-* Check whether the Source column says “Likely from Outside"
+* Check whether the Source column says "Likely from Outside"
 * Click on Pasted Text to see exactly what was inserted
 * Click the Time of Paste to jump to the comparison view and see where the pasted material appears in the essay
 
@@ -34,9 +34,9 @@ Large blocks of text added instantly are often worth inspection or discussion.
 
 ### 3. Look at text deletions 
 
-The <a href="https://help.processfeedback.org/?insight=text-added-removed" target="_blank" rel="noopener noreferrer">Text Added and Removed chart</a> chart shows the rhythm of writing—what was typed and what was deleted.
+The <a href="https://help.processfeedback.org/?insight=text-added-removed" target="_blank" rel="noopener noreferrer">Text Added and Removed chart</a> shows the rhythm of writing—what was typed and what was deleted.
 
-A healthy writing usually includes:
+A healthy writing process usually includes:
 * Small bursts of typing
 * Occasional pauses
 * Frequent small deletions or revisions
@@ -50,7 +50,7 @@ You can click any bubble to see exactly what changed.
 
 ### 4. Inspect breaks taken 
 
-The <a href="https://help.processfeedback.org/?insight=active-typing-sessions-chart-view" target="_blank" rel="noopener noreferrer">Editing Sessions  and Breaks section</a> shows when the student typed and when they paused.
+The <a href="https://help.processfeedback.org/?insight=active-typing-sessions-chart-view" target="_blank" rel="noopener noreferrer">Editing Sessions and Breaks section</a> shows when the student typed and when they paused.
 
 This can give insight into writing habits, such as:
 * Working steadily over time
@@ -61,7 +61,7 @@ This information does not directly show AI use, but last-minute writing patterns
 
 ### 5. Inspect free typing and revision patterns 
 
-The <a href="https://help.processfeedback.org/?insight=edited-sentences" target="_blank" rel="noopener noreferrer">Edit Time and Location chart</a>  visually combines three things:
+The <a href="https://help.processfeedback.org/?insight=edited-sentences" target="_blank" rel="noopener noreferrer">Edit Time and Location chart</a> visually combines three things:
 1. When the student made an edit
 2. How much text changed
 3. Where in the document the edit occurred
@@ -72,22 +72,22 @@ Although this chart may look complex at first, a few simple patterns can be very
 A smooth diagonal line from the top right corner to the bottom left corner formed by many small dark bars indicates continuous typing from start to finish. It can look like a projectile or a waterfall from left to right. This could indicate focused free writing or retyping another source.
 
 **b) A very tall bar or several tall bars**  
-Show large amounts of text added instantly.
+Shows large amounts of text added instantly.
 
 **c) Short bars stacked in a single vertical line** 
-Suggest many small changes made in different places at the same moment. This could happen from accepting spelling/grammar suggestions.
+Suggests many small changes made in different places at the same moment. This could happen from accepting spelling/grammar suggestions.
 
 **d) Sudden drops in bar height** 
 Indicate text deletions.
 
 **e) Bars scattered across the chart**  
-Suggest lots of revision throughout the document.
+Suggests lots of revision throughout the document.
 
 A mix of continuous typing at first followed by scattered edits later can indicate drafting followed by revision (something typical of genuine writing).
 
-### 6. Increase the details when needed  
+### 6. Increase the detail when needed  
 
-By default, Process Feedback summarizes the writing process using around 360–720 timepoints. This is spacing is relatively enough detail for reports with editing time less than 15 or 20 minutes.
+By default, Process Feedback summarizes the writing process using around 360–720 timepoints. This spacing usually provides enough detail for reports with editing time under 15–20 minutes.
 For longer writing sessions, you may want a more detailed view.
 
 On the report’s opening screen, choose a higher option in the “Timepoints” dropdown.
