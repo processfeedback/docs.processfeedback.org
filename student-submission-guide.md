@@ -1,5 +1,6 @@
 # Student Submission Guide
-Steps to share your writing process report with a teacher 
+Steps to share your writing process report with a teacher  
+
 ---
 
 ## Step 1. Write in Google Docs or in Process Feedback
