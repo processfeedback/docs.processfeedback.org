@@ -77,8 +77,8 @@ Show large amounts of text added around that time.
 **c) Short bars scattered in a single time point** 
 Suggests many small changes made in different places around the same time. This could happen from accepting spelling/grammar suggestions.
 
-**d) Sudden drops in bar height**   
-Indicate text deletions.
+**d) Sudden decrease in bar height**   
+Sudden decrease in the overall bar height, compared to its previous bar on tge right, indicate text deletions.
 
 **e) Bars scattered across the chart**  
 Suggests lots of revision throughout the document.
