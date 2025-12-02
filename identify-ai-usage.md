@@ -68,20 +68,15 @@ The <a href="https://help.processfeedback.org/?insight=edited-sentences" target=
 
 Here are some common patterns:
 
-**a) A smooth diagonal line formed by many small dark bars**  
-A smooth diagonal line from the top right corner to the bottom left corner formed by many small dark bars indicates continuous typing from start to finish. It can look like a projectile or a waterfall from left to right. This could indicate focused free writing or retyping another source.
+* **A smooth diagonal line formed by many small dark bars.** A smooth diagonal line from the top right corner to the bottom left corner formed by many small dark bars indicates continuous typing from start to finish. It can look like a projectile or a waterfall from left to right. This could indicate focused free writing or retyping another source.
 
-**b) One or more tall dark bars**  
-Show large amounts of text added around that time.
+* **One or more tall dark bars.** Show large amounts of text added around that time.
 
-**c) Short bars scattered in a single time point** 
-Suggests many small changes made in different places around the same time. This could happen from accepting spelling/grammar suggestions.
+* **Short bars scattered in a single time point.** Suggests many small changes made in different places around the same time. This could happen from accepting spelling/grammar suggestions.
 
-**d) Sudden decrease in bar height**   
-Sudden decrease in the overall bar height, compared to its previous bar on tge right, indicate text deletions.
+* **Sudden decrease in bar height.** Sudden decrease in the overall bar height, compared to its previous bar on tge right, indicate text deletions.
 
-**e) Bars scattered across the chart**  
-Bars scattered all over the chart suggests lots of revision throughout the document. For example, a mix of continuous typing at first followed by scattered edits later can indicate drafting followed by revision (something typical of genuine writing).
+* **Bars scattered across the chart.** Bars scattered all over the chart suggests lots of revision throughout the document. For example, a mix of continuous typing at first followed by scattered edits later can indicate drafting followed by revision (something typical of genuine writing).
 
 ### 6. Increase the detail when needed  
 
