@@ -17,7 +17,9 @@ If you are using Google Docs, you can share the edit link to your document by en
 
 ### Option 2: Obtain and share a link to your writing process report 
 
-If you typed in Google Docs, install the [Process Feedback extension](https://chromewebstore.google.com/detail/gdoc-process-feedback/chcbikmmlhbbdkfiaaaljabpefdfajnb) to generate a process report for your document. The extension page includes a short tutorial video on installing the extension. Once the report is open, click “Share this Report” in the sidebar to obtain a link.
+If you typed in Google Docs, install the [Process Feedback extension](https://chromewebstore.google.com/detail/gdoc-process-feedback/chcbikmmlhbbdkfiaaaljabpefdfajnb) to generate a process report for your document. The extension page includes a short tutorial video on installing the extension. 
+
+Once the report is open, click “Share this Report” in the sidebar to obtain the link to your writing process report.
 
 If you typed in Process Feedback's writing editor, you can save the document online and copy the Report Link to share with others.
 
