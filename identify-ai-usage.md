@@ -66,7 +66,7 @@ The <a href="https://help.processfeedback.org/?insight=edited-sentences" target=
 2. How much text changed
 3. Where in the document the edit occurred
 
-Although this chart may look complex at first, a few simple patterns can be very revealing:
+Here are some common patterns:
 
 **a) A smooth diagonal line formed by many small dark bars**  
 A smooth diagonal line from the top right corner to the bottom left corner formed by many small dark bars indicates continuous typing from start to finish. It can look like a projectile or a waterfall from left to right. This could indicate focused free writing or retyping another source.
