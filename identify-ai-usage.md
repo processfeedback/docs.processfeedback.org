@@ -28,7 +28,7 @@ What to look for:
 * Sort by the Characters column to bring the largest pastes to the top
 * Check whether the Source column says "Likely from Outside"
 * Click on Pasted Text to see exactly what was inserted
-* Click the Time of Paste to jump to the comparison view and see where the pasted material appears in the essay
+* Click the Time of Paste to jump to the comparison view and see where in the document the pasted text appears
 
 Large blocks of text added instantly are often worth inspection or discussion.
 
