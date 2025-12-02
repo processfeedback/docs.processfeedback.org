@@ -21,11 +21,17 @@ Instructions for obtaining and sharing edit link to a Google Docs document
 ### 3. How to reflect on your AI use [Read ↗](./how-to-reflect-on-ai-use.md)  
 Reflection activities for assignments that involved generative AI
 
+### 4. Why use Process Feedback [Read ↗](https://processfeedback.org/why-use-process-feedback/)  
+Read how tools like Process Feedback make teaching and learning more effective  
+
+### 5. 10-min course for students 
+A mini-course for students new to the idea of process focus (Coming soon..)
+<!-- [Open ↗](https://course.processfeedback.org)   -->
+
 ---
 
 ## Teacher Resources
 Guides for teachers to explore and discuss their students' working processes 
-
 
 ### 1. Identify AI-assisted writing patterns [Read ↗](./identify-ai-usage.md)    
 Indicators based on copy-paste events, timing, and revision patterns
@@ -33,9 +39,12 @@ Indicators based on copy-paste events, timing, and revision patterns
 ### 2. Prompts for discussing the writing process [Read ↗](writing-process-reflection-prompts.md)    
 Guide for teachers to discuss a writing process report with students
 
+### 3. Samples [Explore ↗](writing-process-reflection-prompts.md)    
+Sample teacher dashboards, custom editors, writing reports, and more
+
 ---
 
-## Options for Course Integration 
+## Using Process Feedback in a Course
 Here are the choices for a teacher to integrate (or try) Process Feedback in a course
 
 
