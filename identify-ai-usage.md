@@ -95,7 +95,7 @@ This increases detail and shows smaller edits more clearly.
 
 ## Uncommon Scenarios
 
-### Retyping an AI-generated text
+### 1. Retyping an AI-generated text
 
 Some students may generate an essay using AI and then retype it manually so their process looks “authentic.”
 This often appears as:
@@ -106,7 +106,7 @@ This often appears as:
 
 This pattern does not guarantee misconduct, but it is uncommon for original writing.
 
-### Voice typing 
+### 2. Voice typing 
 
 Some students use voice typing:
 
@@ -116,7 +116,7 @@ Some students use voice typing:
 Process Feedback identifies voice-typing events automatically when used in Google Docs.
 Voice typing can also look like paste events because text appears in chunks.
 
-### AI agents mimicking a student
+### 3. AI agents mimicking a student
 
 Some AI tools can generate text that imitates an individual student’s style.
 These cases are hard to detect from a process report alone.
