@@ -81,9 +81,7 @@ Suggests many small changes made in different places around the same time. This 
 Sudden decrease in the overall bar height, compared to its previous bar on tge right, indicate text deletions.
 
 **e) Bars scattered across the chart**  
-Suggests lots of revision throughout the document.
-
-A mix of continuous typing at first followed by scattered edits later can indicate drafting followed by revision (something typical of genuine writing).
+Bars scattered all over the chart suggests lots of revision throughout the document. For example, a mix of continuous typing at first followed by scattered edits later can indicate drafting followed by revision (something typical of genuine writing).
 
 ### 6. Increase the detail when needed  
 
