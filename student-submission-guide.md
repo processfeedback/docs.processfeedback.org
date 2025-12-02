@@ -9,7 +9,7 @@ Type in Google Docs as usual. A common mistake is writing in another editor, suc
 
 As an alternative to Google Docs, you can use Process Feedback's [online editor](https://write.processfeedback.org).
 
-## Step 2. Share your document or your eriting process report
+## Step 2. Share your document or your writing process report
 
 ### Option 1: Share the Google Docs document itself
 
