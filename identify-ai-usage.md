@@ -74,8 +74,8 @@ A smooth diagonal line from the top right corner to the bottom left corner forme
 **b) One or more tall dark bars**  
 Show large amounts of text added around that time.
 
-**c) Short bars stacked in a single vertical line** 
-Suggests many small changes made in different places at the same moment. This could happen from accepting spelling/grammar suggestions.
+**c) Short bars scattered in a single time point** 
+Suggests many small changes made in different places around the same time. This could happen from accepting spelling/grammar suggestions.
 
 **d) Sudden drops in bar height**   
 Indicate text deletions.
