@@ -14,7 +14,7 @@ Use the online version of your report (not the PDF) so you can click and explore
 When answering, be sure to include specific examples, dates, and times from your writing process report to support your points.
 
 1. What was the total time spent on the task, including all breaks?
-2. How much of this time was "active typing time"? Reflect on whether your "active typing time" was evenly distributed throughout or concentrated in specific parts of the task.
+2. How much of this time was "editing time"? Reflect on whether your "editing time" was evenly distributed throughout or concentrated in specific parts of the task.
 3. You likely took short and long breaks when working on the writing tasks. What did you do during non-typing time? Consider both intentional activities (e.g., consulting sources, brainstorming) and unintentional/unplanned ones.
 4. When you were not actively typing, you may have been engaged in various activities like consulting sources, reading books or craft essays, poems, and stories for inspiration, brainstorming separately, attending to other tasks, or simply taking a break. How often did you switch between writing and consulting sources (including the use of AI for any kind of support)? Reflect on how these transitions may have influenced your writing process and whether you notice any patterns.
 5. How did consulting sources contribute to the quality of your text and writing process? Consider if and how the act of consulting sources allowed you to approach the task differently.
