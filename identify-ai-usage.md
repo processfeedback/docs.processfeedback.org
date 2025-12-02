@@ -34,7 +34,7 @@ Large blocks of text added instantly are often worth inspection or discussion.
 
 ### 3. Look at text deletions 
 
-The <a href="https://help.processfeedback.org/?insight=text-added-removed" target="_blank" rel="noopener noreferrer">Text Added and Removed chart</a> shows the rhythm of writing—what was typed and what was deleted.
+The <a href="https://help.processfeedback.org/?insight=text-added-removed" target="_blank" rel="noopener noreferrer">Text Added and Removed chart</a> shows the rhythm of writing. It shows what was typed and what was deleted. 
 
 A healthy writing process usually includes:
 * Small bursts of typing
