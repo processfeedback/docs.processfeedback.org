@@ -290,5 +290,5 @@ a {
 ul,
 ol {
   margin-left: 0;
-  padding-left: 1.5rem; /* or 0 if you want truly flush-left */
+  padding-left: 2rem; /* or 0 if you want truly flush-left */
 }
