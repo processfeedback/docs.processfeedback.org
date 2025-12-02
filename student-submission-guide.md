@@ -13,7 +13,7 @@ As an alternative to Google Docs, you can use Process Feedback's [online editor]
 
 ### Option 1: Share the Google Docs document itself
 
-If you are using Google Docs, you can share the edit link to your document. Enable the **“Anyone with the edit link can edit”** option. Step-by-step instructions for generating an edit link are provided in [this tutorial](./how-to-provide-edit-access-in-gdocs.md).
+If you are using Google Docs, you can share the edit link to your document by enabling the **“Anyone with the edit link can edit”** option. Step-by-step instructions for generating an edit link are provided in [this tutorial](./how-to-provide-edit-access-in-gdocs.md).
 
 ### Option 2: Obtain and share a link to your writing process report 
 
