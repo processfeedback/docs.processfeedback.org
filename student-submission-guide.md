@@ -5,7 +5,7 @@ Steps to share your writing process report with a teacher
 
 ## Step 1. Write in Google Docs or in Process Feedback
 
-Type in Google Docs as usual. A common mistake is writing in another editor, such as Microsoft Word, and then pasting the text into Google Docs. This will not work because editors like Word do not track the editing process. *You must use Google Docs for the entire writing process.*
+Type in Google Docs as usual. A common mistake is writing in another editor, such as Microsoft Word, and then pasting the text into Google Docs. Editors like MS Word do not track the editing process. *You must use Google Docs for the entire writing process.*
 
 As an alternative to Google Docs, you can use Process Feedback's [online editor](https://write.processfeedback.org).
 
