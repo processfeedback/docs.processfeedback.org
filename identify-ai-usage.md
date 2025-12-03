@@ -111,9 +111,12 @@ Voice typing can also look like paste events because text appears in chunks.
 
 ### 3. AI agents mimicking a student
 
-Some AI tools can generate text that imitates an individual student’s style.
-These cases are hard to detect from a process report alone.
+Some AI tools can generate text that imitates an individual student’s style. These cases are hard to detect from a process report alone.
 
 ## The Most Reliable Check
 
 The most dependable way to confirm authorship is to meet briefly with the student and ask them to produce a similar short piece of writing in person. You can then compare their natural writing process with the submitted report.
+
+---
+Once again, these indicators should be used as conversation starters, not conclusions.
+
