@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- NO tailwind here -->
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+
+  <body>
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-inner">
+        <!-- Logo -->
+        <a href="/" class="logo">
+          <img src="../assets/pf_logo.png" alt="Process Feedback Logo" />
+          <span class="logo-subtitle">Guides and Tutorials</span>
+        </a>
+
+        <!-- Desktop nav -->
+        <nav class="primary-nav">
+          <a href="/#student-resources" class="nav-link">Student Resources</a>
+          <a href="/#teacher-resources" class="nav-link">Teacher Resources</a>
+          <a href="https://processfeedback.org/" class="nav-link"
+            >About</a
+          >
+          <a
+            href="https://processfeedback.org/contact-us/"
+            class="nav-link"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Contact Us</a
+          >
+        </nav>
+
+        <!-- Mobile toggle -->
+        <button
+          type="button"
+          id="mobile-nav-toggle"
+          class="mobile-toggle"
+          aria-label="Toggle navigation"
+          aria-expanded="false"
+        >
+          <span class="mobile-toggle-bar"></span>
+          <span class="mobile-toggle-bar"></span>
+          <span class="mobile-toggle-bar"></span>
+        </button>
+      </div>
+
+      <!-- Mobile dropdown -->
+      <nav id="mobile-nav" class="mobile-nav">
+        <a href="/#student-resources" class="mobile-nav-link"
+          >Student Resources</a
+        >
+        <a href="/#teacher-resources" class="mobile-nav-link"
+          >Teacher Resources</a
+        >
+        <a href="https://processfeedback.org/" class="mobile-nav-link"
+          >About Process Feedback</a
+        >
+        <a
+          href="https://processfeedback.org/contact-us/"
+          class="mobile-nav-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          >Contact Us</a
+        >
+      </nav>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="site-main">{{ content }}</main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <p class="footer-text">
+        No copyrights;
+        <a
+          href="https://processfeedback.org/copyleft/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Copyleft
+        </a>
+        <svg
+          class="copyleft-icon"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <circle cx="12" cy="12" r="9"></circle>
+          <path d="M9.5 8.5a4 4 0 1 1 0 7"></path>
+        </svg>
+        2025, Process Feedback, LLC.
+      </p>
+    </footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var toggleBtn = document.getElementById("mobile-nav-toggle");
+        var mobileNav = document.getElementById("mobile-nav");
+
+        if (!toggleBtn || !mobileNav) return;
+
+        toggleBtn.addEventListener("click", function () {
+          var isOpen = mobileNav.classList.toggle("open");
+          toggleBtn.setAttribute("aria-expanded", isOpen ? "true" : "false");
+        });
+      });
+
+      function copyToClipboard(button) {
+        const codeBlock = button.nextElementSibling.innerText;
+        navigator.clipboard.writeText(codeBlock).then(() => {
+          button.textContent = "Copied!";
+          setTimeout(() => (button.textContent = "Copy"), 1500);
+        });
+      }
+    </script>
+  </body>
+</html>

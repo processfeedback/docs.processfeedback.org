@@ -1,0 +1,294 @@
+/* Basic page styling */
+
+/* Allow footer to stay at the bottom */
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* logo + subtitle left-aligned */
+  text-decoration: none;
+}
+
+.logo-subtitle {
+  font-size: 0.75rem;
+  /* small */
+  color: #545962;
+  /* soft gray (Tailwind gray-500) */
+  margin-top: 0.15rem;
+  /* small space under logo */
+  letter-spacing: 0.3px;
+  margin-left: 8px;
+  /* align with logo image */
+}
+
+/* Body becomes a vertical flex container */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main content expands to fill available space */
+.site-main {
+  flex: 1;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  line-height: 1.5;
+  color: #111827;
+  background-color: #ffffff;
+}
+
+/* Keep content readable on large screens */
+.site-main {
+  max-width: 900px;
+  margin: 1.5rem auto 2rem auto;
+  padding: 0 1rem;
+}
+
+/* Restore sensible heading styles */
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 1.5rem 0 0.5rem;
+  color: darkblue;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.5rem;
+  color: blue;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 1rem 0 0rem;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+/* HEADER */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background-color: #f9fafb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.header-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo img {
+  height: 32px;
+  width: auto;
+}
+
+/* Desktop nav */
+/* Desktop nav */
+.primary-nav {
+  display: flex;
+  gap: 1rem;
+}
+
+/* TEXT-LINK STYLE, NOT BUTTONS */
+.nav-link {
+  font-size: 0.95rem;
+  text-decoration: none;
+  color: #111827;
+  padding: 0;
+  /* remove button padding */
+  border: none;
+  /* remove border */
+  background: none;
+  /* remove background */
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+/* Hover: subtle underline + color change */
+.nav-link:hover {
+  color: #2563eb;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+/* Mobile toggle button */
+
+.mobile-toggle {
+  display: none;
+  background: none;
+  border: none;
+  padding: 0.25rem;
+  cursor: pointer;
+}
+
+.mobile-toggle-bar {
+  display: block;
+  width: 20px;
+  height: 2px;
+  margin: 3px 0;
+  background-color: #111827;
+}
+
+/* Mobile nav (hidden by default) */
+
+.mobile-nav {
+  display: none;
+  border-top: 1px solid #e5e7eb;
+  background-color: #f9fafb;
+}
+
+.mobile-nav.open {
+  display: block;
+}
+
+.mobile-nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  text-decoration: none;
+  color: #111827;
+}
+
+.mobile-nav-link:hover {
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+/* FOOTER */
+
+.site-footer {
+  border-top: 1px solid #e5e7eb;
+  background-color: #f9fafb;
+  padding: 0.75rem 1rem;
+  text-align: center;
+}
+
+.footer-text {
+  margin: 0;
+  font-size: 0.85rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+}
+
+.footer-text a {
+  color: #2563eb;
+  text-decoration: underline;
+}
+
+.footer-text a:hover {
+  color: #1d4ed8;
+}
+
+.copyleft-icon {
+  width: 16px;
+  height: 16px;
+}
+
+/* RESPONSIVE BEHAVIOR */
+
+@media (max-width: 768px) {
+  .primary-nav {
+    display: none;
+  }
+
+  .mobile-toggle {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .header-inner {
+    padding: 0.5rem 0.75rem;
+  }
+
+  .site-main {
+    padding: 0 0.75rem;
+  }
+}
+
+/* Restore proper Markdown blockquote styling */
+blockquote {
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid #d1d5db;
+  /* soft gray border */
+  background: #f9fafb;
+  /* subtle background */
+  color: #374151;
+  /* readable text */
+}
+
+blockquote>p {
+  margin: 0;
+  /* remove extra spacing inside */
+}
+
+.copy-container {
+  position: relative;
+}
+
+.copy-button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 4px 8px;
+  font-size: 12px;
+  background-color: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.copy-button:hover {
+  background-color: #eaeef2;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #e5e7eb;
+  /* soft gray */
+  margin: 1rem 0 1rem;
+}
+
+a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+ul,
+ol {
+  margin-left: 0;
+  padding-left: 2rem; /* or 0 if you want truly flush-left */
+}
